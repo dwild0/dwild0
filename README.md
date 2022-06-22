@@ -1,6 +1,6 @@
 # About me 
 --- 
-- 👋 Hi, I’m @dwild0
+- 👋 Hi, I’m @dwild0 also called dave
 - 👀 I’m interested in 'data analytics'
 - 🌱 I’m currently learning 'python' 
 - 📫 How to reach me per e-mail dwild000@gmail.com
