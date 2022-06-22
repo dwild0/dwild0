@@ -1,8 +1,9 @@
+# About me 
+--- 
 - 👋 Hi, I’m @dwild0
 - 👀 I’m interested in 'data analytics'
-- 🌱 I’m currently learning 'python, maybe javascript'
-- 💞️ I’m looking to collaborate on -- 
-- 📫 How to reach me per e-mail 
+- 🌱 I’m currently learning 'python' 
+- 📫 How to reach me per e-mail dwild000@gmail.com
 
 <!---
 dwild0/dwild0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
